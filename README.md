@@ -2,7 +2,7 @@
 
 ![Preview do Jogo](img/Print_Jogo.png)
 
-Um jogo interativo baseado no universo de *Detona Ralph*, desenvolvido com HTML, CSS e JavaScript como parte do curso da Digital Innovation One (DIO).
+Um jogo interativo baseado no universo de *Detona Ralph*, desenvolvido com HTML, CSS e JavaScript como parte do curso da Ri Happy - Front-end do Zero (DIO).
 
 ## 🕹️ Como Jogar
 - O Detona Ralph aparece aleatoriamente em um dos 9 quadrados
@@ -30,4 +30,4 @@ Abra o arquivo index.html no seu navegador
 Divirta-se!
 
 📝 Créditos
-Desenvolvido como projeto do curso da Digital Innovation One
+Desenvolvido como projeto do curso da Ri Happy - Front-end do Zero (Dio)
