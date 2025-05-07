@@ -1,6 +1,6 @@
 # 🎮 Jogo do Detona Ralph em JavaScript
 
-![Preview do Jogo](img/Tijolo.png)
+![Preview do Jogo](img/Print_Jogo.png)
 
 Um jogo interativo baseado no universo de *Detona Ralph*, desenvolvido com HTML, CSS e JavaScript como parte do curso da Digital Innovation One (DIO).
 
