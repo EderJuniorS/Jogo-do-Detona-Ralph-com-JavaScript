@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+    <!-- Css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/resetar.css">
+
+    <title>Jogo Detona Raph</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="menu">
+            <div class="menu-tempo">
+                <h2 style="color: #ff0000;">Seu Tempo</h2>
+                <h2 id="tempo-restante">0</h2>
+            </div>
+            
+            <div class="menu-pontos">
+                <h2 style="color: #ff0000;">Seus Pontos</h2>
+                <h2 id="pontos">0</h2>
+            </div>
+
+            <div class="menu-vidas">
+                <img src="./img/Coração.png" height="60px">
+                <h2>x3</h2>
+            </div>
+        </div>
+
+        <div class="painel">
+            <div class="painel-linha">
+                <div class="quadrado enemy" id="1"></div>
+                <div class="quadrado" id="2"></div>
+                <div class="quadrado" id="3"></div>
+            </div>
+
+            <div class="painel-linha">
+                <div class="quadrado" id="4"></div>
+                <div class="quadrado" id="5"></div>
+                <div class="quadrado" id="6"></div>
+            </div>
+
+            <div class="painel-linha">
+                <div class="quadrado" id="7"></div>
+                <div class="quadrado" id="8"></div>
+                <div class="quadrado" id="9"></div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <script defer src="js/scripts.js"></script><!-- defer é para o java script executar depois do html ser parcialmente carregado -->
+</body>
+</html>
