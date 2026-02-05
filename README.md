@@ -11,7 +11,7 @@
   
   <br><br>
 
-  <a href="https://ederjuniors.github.io/Jogo-do-Detona-Ralph-com-JavaScript">
+  <a href="https://ederjuniors.github.io/Detona-Ralph-Game">
     <img src="https://img.shields.io/badge/🕹️_Jogar_Agora-Online-success?style=for-the-badge" alt="Jogar Agora">
   </a>
 </div>
@@ -68,7 +68,7 @@ Este projeto utiliza a tríade fundamental da web, focando na aplicação práti
 ## 🏁 Como Executar Localmente
 Clone o projeto:
 ```bash
-git clone https://github.com/EderJuniorS/Jogo-do-Detona-Ralph-com-JavaScript.git
+git clone https://github.com/EderJuniorS/Detona-Ralph-Game.git
 ```
 
 <div align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/ederjuniormatossilva">Éder Junior</a> durante o Bootcamp DIO. </div>
