@@ -63,3 +63,9 @@ Este projeto utiliza a tríade fundamental da web, focando na aplicação práti
 │       └── main.css     # Estilos globais e responsividade
 ├── index.html           # Ponto de entrada
 └── README.md            # Documentação
+```
+
+## 🏁 Como Executar Localmente
+Clone o projeto:
+```bash
+git clone [https://github.com/EderJuniorS/Jogo-do-Detona-Ralph-com-JavaScript.git](https://github.com/EderJuniorS/Jogo-do-Detona-Ralph-com-JavaScript.git)
