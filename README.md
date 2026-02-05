@@ -69,3 +69,6 @@ Este projeto utiliza a tríade fundamental da web, focando na aplicação práti
 Clone o projeto:
 ```bash
 git clone https://github.com/EderJuniorS/Jogo-do-Detona-Ralph-com-JavaScript.git
+```
+
+<div align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/ederjuniormatossilva">Éder Junior</a> durante o Bootcamp DIO. </div>
