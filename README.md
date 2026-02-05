@@ -68,4 +68,4 @@ Este projeto utiliza a tríade fundamental da web, focando na aplicação práti
 ## 🏁 Como Executar Localmente
 Clone o projeto:
 ```bash
-git clone [https://github.com/EderJuniorS/Jogo-do-Detona-Ralph-com-JavaScript.git](https://github.com/EderJuniorS/Jogo-do-Detona-Ralph-com-JavaScript.git)
+git clone https://github.com/EderJuniorS/Jogo-do-Detona-Ralph-com-JavaScript.git
